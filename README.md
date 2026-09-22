@@ -30,8 +30,3 @@ A portfolio-grade full-stack SaaS project demonstrating multi-tenancy, RBAC, JWT
 Seed data creates:
 - Email: demo@devflow.local
 - Password: Password123!
-
-Change credentials before using a public deployment.
-
-## Important
-This repository is intentionally structured as a strong starter/portfolio project. Before presenting it as production software, add a real production secret-management setup, stronger security controls, observability, migrations review, and deployment-specific configuration.
